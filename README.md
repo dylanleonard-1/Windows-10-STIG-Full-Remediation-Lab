@@ -63,7 +63,12 @@ All before/after scans and evidence are located in the `/Evidence/` folder.
 - Audit-ready documentation and remediation verification.  
 
 ---
-
+## ✅ Summary of Impact
+- Remediated **20+ STIG vulnerabilities** using custom-developed PowerShell scripts.
+- Verified compliance using vulnerability scans and manual validation.
+- Improved Windows 10 security posture to meet **DISA STIG** standards.
+- Demonstrated capability to automate security hardening processes for enterprise environments.
+- 
 ## **Future Enhancements**  
 - Automate remediation across multiple endpoints using Ansible or Azure Automation.  
 - Expand project to Windows Server STIGs and hybrid cloud infrastructure.  
