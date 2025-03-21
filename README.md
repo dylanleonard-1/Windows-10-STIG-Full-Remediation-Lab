@@ -22,7 +22,7 @@ This repository demonstrates the full remediation of Windows 10 DISA STIG vulner
 
 | STIG ID            | Description (from benchmark)                       | Script Link |
 |--------------------|----------------------------------------------------|-------------|
-| WN10-AU-000050     | Audit policy remediation using PowerShell          | [View Script](https://github.com/dylanleonard-1/dylanleonard-1/blob/main/WN10-AU-000050.ps1) |
+| WN10-AU-000050     | Audit policy remediation using PowerShell          | [View Script](https://github.com/dylanleonard-1/dylanleonard-1/blob/main/Stigs) |
 | WN10-AU-000035     | Audit configuration remediation                    | [View Script](https://github.com/dylanleonard-1/dylanleonard-1/blob/main/WN10-AU-000035.ps1) |
 | WN10-CC-000205     | Control Center hardening                           | [View Script](https://github.com/dylanleonard-1/dylanleonard-1/blob/main/WN10-CC-000205.ps1) |
 | WN10-CC-000031     | Configuration fix                                  | [View Script](https://github.com/dylanleonard-1/dylanleonard-1/blob/main/WN10-CC-000031.ps1) |
@@ -68,7 +68,6 @@ All before/after scans and evidence are located in the `/Evidence/` folder.
 - Verified compliance using vulnerability scans and manual validation.
 - Improved Windows 10 security posture to meet **DISA STIG** standards.
 - Demonstrated capability to automate security hardening processes for enterprise environments.
-- 
 ## **Future Enhancements**  
 - Automate remediation across multiple endpoints using Ansible or Azure Automation.  
 - Expand project to Windows Server STIGs and hybrid cloud infrastructure.  
